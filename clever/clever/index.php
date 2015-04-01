@@ -134,5 +134,4 @@ $menu = $app->getMenu();
 </div>
 </div>
 </body>
-hello world.
 </html>

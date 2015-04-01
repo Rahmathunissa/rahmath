@@ -1,3 +1,4 @@
+edited one
 <?php
 /**
  * @copyright	Copyright (C) 2005 - 2008 Open Source Matters. All rights reserved.
